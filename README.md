@@ -61,14 +61,3 @@
   </a>
 </p>
 
-<h3 align="left">DSA Progress 💪:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superAman07&layout=compact&theme=dracula" alt="superAman07" />
-  <img src="https://github-readme-stats.vercel.app/api?username=superAman07&show_icons=true&theme=dracula" alt="superAman07" />
-</p>
-
-<h3 align="left">C++ and DSA Progress:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=superAman07&repo=competitive-programming&theme=dracula" alt="superAman07" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=superAman07&repo=DSA-Notes&theme=dracula" alt="superAman07" />
-</p>
