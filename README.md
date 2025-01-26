@@ -64,7 +64,6 @@
 <h3 align="left">DSA Progress 💪:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superAman07&layout=compact&theme=dracula" alt="superAman07" />
-  ![C++](https://progress-bar.dev/80/?title=c%2B%2B)
   <img src="https://github-readme-stats.vercel.app/api?username=superAman07&show_icons=true&theme=dracula" alt="superAman07" />
 </p>
 
