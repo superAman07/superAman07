@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Vishwakarma</h1>
-<h3 align="center">A passionate **DSA Enthusiast**, skilled in **C++**, and a **Web Developer** specializing in **Next.js with TypeScript** 🚀</h3>
+<h3 align="center">A passionate DSA Enthusiast, skilled in C++, and a Web Developer specializing in Next.js with TypeScript 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaman07&label=Profile%20views&color=0e75b6&style=flat" alt="superaman07" /> </p>
 
