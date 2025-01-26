@@ -62,7 +62,6 @@
 </p>
 
 <h3 align="left">DSA Progress 💪:</h3>
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=superAman07&hide=contribs,prs)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superAman07&layout=compact&theme=dracula" alt="superAman07" />
   <img src="https://github-readme-stats.vercel.app/api?username=superAman07&show_icons=true&theme=dracula" alt="superAman07" />
