@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://aman-vishwakarma.vercel.app/](https://aman-vishwakarma.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium-blog-eosin-tau.vercel.app/](https://medium-blog-eosin-tau.vercel.app/)
-
 - 💬 Ask me about **DSA, C++ STL**, **React**, **Next.js**, **Node.js**, and **TypeScript**. I'm always happy to dive deep into solving problems!
 
 - 📫 How to reach me: **[GitHub Profile](https://github.com/superAman07)**
