@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaman07&label=Profile%20views&color=0e75b6&style=flat" alt="superaman07" /> </p>
 
-- 🌱 I’m currently learning **MonoRepo, Web Sockets, Redis, WebRTC**, and sharpening my **DSA** skills for problem-solving!
+- 🌱 I’m currently learning ** Web Sockets, Redis, WebRTC**, and sharpening my **DSA** skills for problem-solving!
 
 - 👨‍💻 All of my projects are available at [https://aman-vishwakarma.vercel.app/](https://aman-vishwakarma.vercel.app/)
 
